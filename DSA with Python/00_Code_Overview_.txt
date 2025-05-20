@@ -1,5 +1,6 @@
-What is DSA -:  DSA is an orangized way of storing and representing of data in computer's memory,so that data can be used effectively by the code, the word Data Structure is used when we are dealing and keeping our data in memory of computer,and when orangized data is stored in Hard Disk,server or in any permanent device is called DBMS(Database Managment System)
+P1. Extract digits of a given number
+P2. Extract Second digits of a given number
+P3. Count digits in a given number
+P4. Count digits in a given number using log
 
-
-
-P1.
+Time compexity for all P3 is O(log10(n)) becasue n is decreasing in every iteration
