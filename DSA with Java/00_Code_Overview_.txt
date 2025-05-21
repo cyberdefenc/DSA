@@ -1,0 +1,4 @@
+P1. Cyclically rotate an array by one
+P2. Compress the string -Character can  come after different character
+P3. Compress the string -Character can not come after different character
+P4.
