@@ -1,1 +1,24 @@
-P1.
+P1. Check whether a given number is palindrome or not
+     TC=O(log10(n))
+     SC=O(1)
+
+P2. Check whether a given number is Armstrong or not using log
+     TC=O((log n)²)
+     SC=O(1)
+
+P3. Check whether a given number is Armstrong or not using len(str(x))
+     TC=O((log n)²)
+     SC=O(log n)
+
+P4. Check whether a given number is Armstrong or not but if x=0
+     TC=O((log n)²)
+     SC=O(1)
+
+P5. Find and print the factors of a given number
+     TC=O(n)
+     SC=O(1)
+
+P6. Find and print the factors of a given number by list 
+     TC=O(n)
+     SC=O(k)
+     where k is total number of factors
