@@ -22,3 +22,16 @@ P6. Find and print the factors of a given number by list
      TC=O(n)
      SC=O(k)
      where k is total number of factors
+
+P7. Find and print the factors of a given number by list 
+     TC=O(n)
+     SC=O(k)
+     where k is total number of factors
+
+     all numbers have its factors only n/2
+     like n=10
+     so 10 is only divisible by or it has factors less than and equal to its half
+     means 1,2,3,4,5,10
+     not by 6,7,8,9
+
+P8. Find factors of a given number using root
