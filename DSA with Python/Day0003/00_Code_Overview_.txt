@@ -1,5 +1,7 @@
  Hashing in python
 
+ hash_list=[0]*11 # will create 11 index of list with intial values in each as 0
+
  Every operation in Dictionary takes O(1) time
 
 P1. Read from list and insert into Dictionary,if already exist just update it's key(frequency)
@@ -10,3 +12,5 @@ P2. Read from list and insert into Dictionary,if already exist just update it's 
     more conscise version
     TC=O(n)
     SC=O(n)
+
+P3. Read for a list(m) from a list(n) and make hash_map which only stores the frequency of elements and between 1<=n[i]<=10,n,m can have 10^8 elements

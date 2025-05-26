@@ -1,5 +1,5 @@
 
-print("Enter you elements that most of occur recursively")
+print("Enter your elements that most of occur recursively")
 list=[]
 while True:
     try:
