@@ -16,7 +16,13 @@ class InputArray {
 
 }
 
-class KthMaxMin {
+
+class KthMax {
+
+
+}
+
+class KthMin {
 
 
 }

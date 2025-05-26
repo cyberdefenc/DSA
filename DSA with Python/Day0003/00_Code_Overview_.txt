@@ -1,1 +1,12 @@
-P1.
+ Hashing in python
+
+ Every operation in Dictionary takes O(1) time
+
+P1. Read from list and insert into Dictionary,if already exist just update it's key(frequency)
+   TC=O(n)
+   SC=O(n)
+
+P2. Read from list and insert into Dictionary,if already exist just update it's key(frequency)
+    more conscise version
+    TC=O(n)
+    SC=O(n)
