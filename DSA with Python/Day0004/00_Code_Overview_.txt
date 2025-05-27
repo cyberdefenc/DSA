@@ -1,0 +1,6 @@
+Recursion
+
+P1. Print 1 to n using Recursion,using Head Recursion
+P2. Print n to 1 using Recursion,using Tail Recursion(Also called as Backtracking)
+P3. Print 1 to n using Recursion,using Head Recursion
+P4. Print 1 to n using Recursion,using Tail Recursion(Also called as Backtracking)
