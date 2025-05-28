@@ -1,0 +1,3 @@
+P1. Reverse an array with index
+    left=2
+    right=5
