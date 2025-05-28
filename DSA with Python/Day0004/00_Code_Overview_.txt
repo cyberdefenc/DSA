@@ -4,3 +4,7 @@ P1. Print 1 to n using Recursion,using Head Recursion
 P2. Print n to 1 using Recursion,using Tail Recursion(Also called as Backtracking)
 P3. Print 1 to n using Recursion,using Head Recursion
 P4. Print 1 to n using Recursion,using Tail Recursion(Also called as Backtracking)
+P5. Print sum of 1 to n numbers -Head Recursion
+P6. Print sum of 1 to n numbers -Head Recursion part 2
+P7. Print sum of 1 to n numbers -Head Recursion part 2 - More efficient version
+P8. Print factorial of a number
