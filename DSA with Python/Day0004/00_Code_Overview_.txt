@@ -9,5 +9,9 @@ P6. Print sum of 1 to n numbers -Head Recursion part 2
 P7. Print sum of 1 to n numbers -Head Recursion part 2 - More efficient version
 P8. Print factorial of a number
 P9. Reverse an array with index
+    left=0
+    right=8
+P10.Reverse an array with index
     left=2
     right=5
+P11. Check whether a given string is palindrome or not
